@@ -1,4 +1,4 @@
-# Chatbots Machine Learning Project
+# Chatbot Machine Learning Project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
